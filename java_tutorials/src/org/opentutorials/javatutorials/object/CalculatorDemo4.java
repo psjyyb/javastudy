@@ -36,5 +36,6 @@ class Calculator {
 	        c2.avg();
 	        c2.substract();
 	    }
+	    
 	  
 	}
